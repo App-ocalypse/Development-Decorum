@@ -10,8 +10,7 @@ Licensed under [GNU General Public License v3.0](https://github.com/App-ocalypse
 ### Github Repository Configuration:
  - There should be only 1 branch:
  
-      **main**: (Default). Should contain License, Readme and the total app-data with all files.
-     
+      **main**: (Default). Should contain License and Readme 
      
  - ***Discussions*** should be enabled.
  - One Issue should be created named ***"Feedback"*** with the first issue like ["Feedbacks" issue in Main Repo](https://github.com/App-ocalypse/App-ocalypse/issues/1)
