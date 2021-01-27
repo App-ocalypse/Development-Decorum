@@ -1,6 +1,6 @@
 # App-ocalypse App Development Decorum
 
- This is a must-read page before publishing any application from App-ocalypse.
+ This is a must-read page before publishing any application from [App-ocalypse](https://app-ocalypse.github.io/App-ocalypse/) .
  
  #### by [SparkScratch_P](https://github.com/SparkScratch-P) and [other contribtors](https://github.com/orgs/App-ocalypse/people)
 ![icon](https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico) 
