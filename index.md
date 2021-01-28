@@ -4,7 +4,7 @@
  
  
 #### by [SparkScratch_P](https://github.com/SparkScratch-P) and [other contributors](https://github.com/orgs/App-ocalypse/people)
-[![icon](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/3004baca807dfb288088ee147573ec8936c9fecd/appocalypse%20poster%20icon.svg "Visit the App-Box" ) ](https://app-ocalypse.github.io/Appbox/)
+[![icon](https://github.com/App-ocalypse/App-ocalypse/blob/main/appocalypse%20poster%20icon.png?raw=true "Visit the App-Box" ) ](https://app-ocalypse.github.io/Appbox/)
 
 Licensed under [GNU General Public License v3.0](https://github.com/App-ocalypse/App-ocalypse/blob/main/LICENSE)
  
